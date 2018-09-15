@@ -1,7 +1,7 @@
 baseURL = "http://localhost:1313/"   # set to default for local test
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Kasper Liu"
+title = "Kasper"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
@@ -14,7 +14,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "Kasper Liu"
+  name = "Kasper"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -51,7 +51,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   since = "2018"            # Site creation time          # 站点建立时间
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Kasper Liu"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "Kasper"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Computer Science", "KasperLiu","IT", "Programer"]
   description = "Personal site of Kasper Liu"
 
